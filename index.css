@@ -1,0 +1,21 @@
+*{
+   font-family: 'Poppins', sans-serif;
+   margin: 0px;
+}
+.bg-img{
+   background-image: url('images/banner_1.png');
+   border-radius: 10px;
+   height: 550px;
+   width: auto;
+
+}
+.bold-text{
+   padding-top: 120px;
+   color: aliceblue;
+   font-size: 7dvb;
+   font:bolder;
+
+}
+.input{
+ margin-left: 330px;
+}
